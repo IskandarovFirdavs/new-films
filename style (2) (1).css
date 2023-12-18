@@ -1,0 +1,324 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(255, 255, 255);
+}
+.alll {
+  margin-left: -90px;
+}
+.logoTM {
+  margin-top: 18px;
+  height: 20px;
+}
+
+header {
+  background-color: rgb(3, 37, 65);
+  padding: 1px;
+  display: flex;
+  margin-left: -250px;
+  height: 65px;
+}
+h4 {
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  margin: 20px;
+  cursor: pointer;
+}
+.headung {
+  margin-left: 300px;
+  display: flex;
+  margin-top: 9px;
+}
+.iconPlus {
+  color: white;
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+}
+.headchap {
+  margin-top: -12px;
+  margin-left: 300px;
+  display: flex;
+}
+.ruIcon {
+  height: 30px;
+  margin-top: 35px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.h4h4 {
+  margin-top: 40px;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+}
+.avatar {
+  margin-left: 150px;
+  height: 350px;
+  width: 1200px;
+}
+.avatartext {
+  color: rgb(255, 255, 255);
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 50px;
+  margin-left: 220px;
+  margin-top: -320px;
+}
+.avatartext2 {
+  color: rgb(255, 255, 255);
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  margin-left: 220px;
+  margin-top: -30px;
+}
+.input {
+  width: 1070px;
+  margin-left: -150px;
+  height: 45px;
+  border-radius: 50px;
+  padding-left: 30px;
+  font-size: 17px;
+  margin-top: 50px;
+  border: 0;
+  padding: 10;
+}
+.input1 {
+  width: 100px;
+  margin-left: -100px;
+  height: 47px;
+  border-radius: 50px;
+  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
+  padding-left: 10px;
+  font-size: 17px;
+  margin-top: 50px;
+  border-color: #00ffea;
+  border: #00ffea;
+  background-color: #00ddcb;
+  color: white;
+  cursor: pointer;
+}
+
+.name {
+  color: rgb(3, 37, 65);
+  font-size: 15px;
+  margin-top: 15px;
+  margin-left: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+.infor1 {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 50px;
+  border-radius: 50%;
+  padding: 1px;
+}
+.inung {
+  display: flex;
+}
+.input1:hover {
+  width: 100px;
+  margin-left: -100px;
+  height: 47px;
+  border-radius: 50px;
+  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
+  padding-left: 10px;
+  font-size: 17px;
+  margin-top: 50px;
+  border-color: #00ffea;
+  border: #00ffea;
+  background-color: #00ddcb;
+  color: black;
+  cursor: pointer;
+}
+.inputs {
+  margin-left: 370px;
+  display: flex;
+}
+.bottom {
+  margin-top: 120px;
+  margin-left: 200px;
+}
+.firstText0 {
+  display: flex;
+}
+.today {
+  display: flex;
+  border-radius: 20px;
+  margin-top: 15px;
+  width: 280px;
+  height: 35px;
+  background-color: white;
+  margin-left: 30px;
+}
+.thisWeek {
+  display: flex;
+  border-radius: 20px;
+  margin-top: 15px;
+  width: 100px;
+  height: 35px;
+  background-color: white;
+  margin-left: -280px;
+}
+.h3h {
+  margin-top: 5px;
+  margin-left: 10px;
+}
+.h33 {
+  margin-left: 30px;
+  margin-top: 21px;
+  cursor: pointer;
+}
+.thisWeek {
+  background-color: rgb(3, 37, 65);
+  color: #00ddcb;
+  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+.diagramma {
+  width: 430px;
+  margin-left: -50px;
+  margin-top: 80px;
+  height: 250px;
+}
+.diagrammalar {
+  z-index: 0;
+}
+.about {
+  margin-left: 50px;
+  color: white;
+}
+.kinorasm {
+  height: 250px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.kebabmenu {
+  height: 18px;
+  width: 15px;
+  margin-top: 10px;
+  margin-left: -25px;
+}
+.blueee {
+  height: 30px;
+  background-color: rgb(255, 255, 255);
+}
+.kebabmenu:hover {
+  height: 18px;
+  width: 15px;
+  margin-top: 10px;
+  margin-left: -25px;
+  background-color: white;
+  cursor: pointer;
+}
+.information {
+  height: 140px;
+  background-color: rgb(3, 37, 65);
+  padding: 10px;
+}
+.line {
+  background-color: rgb(255, 0, 0);
+  height: 10px;
+  width: 800px;
+  border-radius: 20px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.line2 {
+  background-color: rgb(255, 98, 0);
+  height: 10px;
+  width: 500px;
+  border-radius: 20px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.kletka {
+  margin-top: -330px;
+  display: flex;
+  margin-left: 90px;
+}
+.inung {
+  display: flex;
+}
+
+.filmtexte {
+  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
+  width: 150px;
+  margin-top: 280px;
+  font-size: 17px;
+  margin-left: -55px;
+}
+.data {
+  font-family: "Roboto", sans-serif;
+  color: grey;
+  margin-top: -10px;
+  margin-left: -55px;
+}
+.roundBall {
+  height: 45px;
+  background-color: black;
+  border-radius: 50%;
+  display: flex;
+  width: 45px;
+  margin-top: 230px;
+  margin-left: -145px;
+}
+.round67 {
+  margin-top: 13px;
+  color: white;
+  margin-left: -33px;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+
+.prosent {
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+  margin-top: 12px;
+  margin-left: 1px;
+}
+.rasmllar {
+  display: flex;
+  margin-left: -100px;
+  width: 350px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1;
+  border-radius: 10px;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dataJoinlar {
+  display: flex;
+  margin-left: 102px;
+  color: grey;
+  margin-top: -35px;
+}
+.datajoin {
+  margin-left: 163px;
+}
